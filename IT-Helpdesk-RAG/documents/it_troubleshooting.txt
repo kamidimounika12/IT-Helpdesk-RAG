@@ -1,0 +1,48 @@
+IT HELP DESK TROUBLESHOOTING GUIDE
+
+TOPIC 1: WIFI CONNECTION ISSUES
+If a computer cannot connect to Wi-Fi, first check whether Wi-Fi
+is enabled. Confirm that airplane mode is disabled. Verify that
+the correct network is selected and that the password is correct.
+If the issue continues, disconnect and reconnect to the network.
+Restart the computer if appropriate. If multiple users are affected,
+report the issue to the IT support team.
+
+TOPIC 2: VPN CONNECTION ISSUES
+If the VPN does not connect, verify that the internet connection
+is working. Check that the VPN server address is correct and that
+the user account is authorized. Restart the VPN application and
+try again. Record the error message. If the problem continues,
+contact the IT support team.
+
+TOPIC 3: PASSWORD AND LOGIN ISSUES
+If a user cannot sign in, verify the username and check the
+keyboard layout and Caps Lock. Use the organization's approved
+password-reset process if the password is forgotten. Never ask
+users to share their passwords. If the account is locked, contact
+the authorized administrator.
+
+TOPIC 4: SLOW COMPUTER
+If a computer is running slowly, check whether several applications
+are consuming system resources. Save work before closing unnecessary
+applications. Check available storage space and restart the computer
+if appropriate. If the problem continues, report the device details
+to IT support.
+
+TOPIC 5: PRINTER ISSUES
+If a printer is not printing, check that it is powered on and shows
+no paper or toner warning. Verify the printer selection and the
+print queue. Check the connection and confirm that the correct
+printer is selected. If the issue continues, contact IT support.
+
+TOPIC 6: SOFTWARE INSTALLATION
+Employees should use only organization-approved software and
+installation procedures. If installation fails, record the software
+name and error message. If administrator permission is required,
+contact authorized IT support rather than attempting to bypass
+access controls.
+
+TOPIC 7: VPN ERROR REPORTING
+If a VPN connection fails, record the exact error message.
+If the issue continues after troubleshooting, report the problem
+and recorded error message to the IT support team.
